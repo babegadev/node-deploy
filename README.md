@@ -152,6 +152,7 @@ ctrl + c
 ```
 sudo pm2 start <app.js> --name <appname>
 sudo pm2 startup systemd
+sudo pm2 save
 ```
 
 ## 4. Configure domain name and SSL Certificate
