@@ -127,6 +127,9 @@ sudo systemctl status noip2
 
 # Adding New Apps to server
 
+Quick Note:
+- When adding new apps/projects, use port 5XXX
+
 ## 1. Clone Project in App directory
 ```
 cd apps
